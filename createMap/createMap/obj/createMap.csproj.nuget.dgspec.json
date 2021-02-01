@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SVN_Liao_Project\\GitHub\\openlayers4\\1.createMap\\createMap\\createMap\\createMap.csproj": {}
+    "C:\\SVN_Liao_Project\\GitHub\\openlayers4\\createMap\\createMap\\createMap.csproj": {}
   },
   "projects": {
-    "C:\\SVN_Liao_Project\\GitHub\\openlayers4\\1.createMap\\createMap\\createMap\\createMap.csproj": {
+    "C:\\SVN_Liao_Project\\GitHub\\openlayers4\\createMap\\createMap\\createMap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SVN_Liao_Project\\GitHub\\openlayers4\\1.createMap\\createMap\\createMap\\createMap.csproj",
+        "projectUniqueName": "C:\\SVN_Liao_Project\\GitHub\\openlayers4\\createMap\\createMap\\createMap.csproj",
         "projectName": "createMap",
-        "projectPath": "C:\\SVN_Liao_Project\\GitHub\\openlayers4\\1.createMap\\createMap\\createMap\\createMap.csproj",
+        "projectPath": "C:\\SVN_Liao_Project\\GitHub\\openlayers4\\createMap\\createMap\\createMap.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\SVN_Liao_Project\\GitHub\\openlayers4\\1.createMap\\createMap\\createMap\\obj\\",
+        "outputPath": "C:\\SVN_Liao_Project\\GitHub\\openlayers4\\createMap\\createMap\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
