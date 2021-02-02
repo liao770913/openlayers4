@@ -1,0 +1,14 @@
+[
+  {
+    "outputFileName": "wwwroot/lib/openlayers/ol.min.js",
+    "inputFiles": [
+      "wwwroot/lib/openlayers/ol.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/lib/openlayers/ol.min.css",
+    "inputFiles": [
+      "wwwroot/lib/openlayers/ol.css"
+    ]
+  }
+]
